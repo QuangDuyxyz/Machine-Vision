@@ -1,0 +1,10 @@
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\bin\Debug\project07_KGMRGBSangHSI.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\bin\Debug\project07_KGMRGBSangHSI.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\bin\Debug\project07_KGMRGBSangHSI.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project07_KGMRGBSangHSI\project07_KGMRGBSangHSI\obj\Debug\project07_KGMRGBSangHSI.pdb

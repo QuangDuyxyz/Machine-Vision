@@ -1,0 +1,10 @@
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\bin\Debug\LamSacNet.exe.config
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\bin\Debug\LamSacNet.exe
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\bin\Debug\LamSacNet.pdb
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.csproj.AssemblyReference.cache
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.Form1.resources
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.Properties.Resources.resources
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.csproj.GenerateResource.cache
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.csproj.CoreCompileInputs.cache
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.exe
+D:\Machine_Vision\Project12_LamSacNet\LamSacNet\LamSacNet\obj\Debug\LamSacNet.pdb

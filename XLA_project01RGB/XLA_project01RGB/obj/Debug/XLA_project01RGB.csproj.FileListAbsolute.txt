@@ -1,0 +1,45 @@
+C:\Users\Qduy\Desktop\Machine Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_Project1.Form1.resources
+C:\Users\Qduy\Desktop\Machine Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x64\concrt140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x64\cvextern.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x64\msvcp140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x64\vcruntime140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x86\concrt140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x86\cvextern.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x86\msvcp140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\x86\vcruntime140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\XLA_project01RGB.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\XLA_project01RGB.exe
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\XLA_project01RGB.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\Emgu.CV.World.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\ZedGraph.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\Emgu.CV.World.xml
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.exe
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_project01RGB\XLA_project01RGB\obj\Debug\XLA_project01RGB.pdb

@@ -1,0 +1,10 @@
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\bin\Debug\RGB_to_HSV.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\bin\Debug\RGB_to_HSV.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\bin\Debug\RGB_to_HSV.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project08_HSV\RGB_to_HSV\RGB_to_HSV\obj\Debug\RGB_to_HSV.pdb

@@ -1,0 +1,20 @@
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\bin\Debug\NhanDangDuongBien.exe.config
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\bin\Debug\NhanDangDuongBien.exe
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\bin\Debug\NhanDangDuongBien.pdb
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.csproj.AssemblyReference.cache
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.Form1.resources
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.Properties.Resources.resources
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.csproj.GenerateResource.cache
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.csproj.CoreCompileInputs.cache
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.exe
+D:\Machine_Vision\project14_NhanDangDuongBien\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.pdb
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\bin\Debug\NhanDangDuongBien.exe.config
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\bin\Debug\NhanDangDuongBien.exe
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\bin\Debug\NhanDangDuongBien.pdb
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.Form1.resources
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.Properties.Resources.resources
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.exe
+C:\Users\ACER\Documents\machine vision\NhanDangDuongBien\NhanDangDuongBien\obj\Debug\NhanDangDuongBien.pdb

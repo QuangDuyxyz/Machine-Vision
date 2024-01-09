@@ -1,0 +1,80 @@
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\concrt140.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\cvextern.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\msvcp140.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\vcruntime140.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\concrt140.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\cvextern.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\msvcp140.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\vcruntime140.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\XLA_Project01.exe.config
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\XLA_Project01.exe
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\XLA_Project01.pdb
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.World.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\ZedGraph.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.World.xml
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.Form1.resources
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.exe
+C:\Users\Qduy\Desktop\Machine Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\concrt140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\cvextern.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\msvcp140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x64\vcruntime140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\concrt140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\cvextern.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\msvcp140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\x86\vcruntime140.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\XLA_Project01.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\XLA_Project01.exe
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\XLA_Project01.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.World.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\ZedGraph.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\Emgu.CV.World.xml
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.exe
+C:\Users\Qduy\Desktop\Machine_Vision\XLA_Project01\XLA_Project01\obj\Debug\XLA_Project01.pdb

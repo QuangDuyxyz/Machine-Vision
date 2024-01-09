@@ -1,0 +1,10 @@
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\bin\Debug\KhongGianMauYCrCb.exe.config
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\bin\Debug\KhongGianMauYCrCb.exe
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\bin\Debug\KhongGianMauYCrCb.pdb
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.csproj.AssemblyReference.cache
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.Form1.resources
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.Properties.Resources.resources
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.csproj.GenerateResource.cache
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.csproj.CoreCompileInputs.cache
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.exe
+D:\Machine_Vision\Project10_KhongGianMauYCrCb\KhongGianMauYCrCb\KhongGianMauYCrCb\obj\Debug\KhongGianMauYCrCb.pdb

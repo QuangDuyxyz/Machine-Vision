@@ -1,0 +1,51 @@
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\project05_AnhMauRGB.exe.config
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\project05_AnhMauRGB.exe
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\project05_AnhMauRGB.pdb
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.Form1.resources
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.exe
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.pdb
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ZedGraph.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\project05_AnhMauRGB.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\project05_AnhMauRGB.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\project05_AnhMauRGB.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05_AnhMauRGB\project05_AnhMauRGB\obj\Debug\project05_AnhMauRGB.pdb

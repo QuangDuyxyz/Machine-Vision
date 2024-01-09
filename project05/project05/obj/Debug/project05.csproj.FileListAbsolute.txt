@@ -1,0 +1,51 @@
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.Form1.resources
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\project05.exe.config
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\project05.exe
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\project05.pdb
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\ZedGraph.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.exe
+C:\Users\Qduy\Desktop\Machine Vision\project05\project05\obj\Debug\project05.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\project05.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\project05.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\project05.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\ZedGraph.xml
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.csproj.CopyComplete
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project05\project05\obj\Debug\project05.pdb

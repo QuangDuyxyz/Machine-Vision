@@ -1,0 +1,10 @@
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\bin\Debug\project06.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\bin\Debug\project06.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\bin\Debug\project06.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project06\project06\obj\Debug\project06.pdb

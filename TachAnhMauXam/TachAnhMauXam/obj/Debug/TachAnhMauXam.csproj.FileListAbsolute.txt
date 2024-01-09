@@ -1,0 +1,20 @@
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\bin\Debug\TachAnhMauXam.exe.config
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\bin\Debug\TachAnhMauXam.exe
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\bin\Debug\TachAnhMauXam.pdb
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.Form1.resources
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.exe
+C:\Users\Qduy\Desktop\Machine Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\bin\Debug\TachAnhMauXam.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\bin\Debug\TachAnhMauXam.exe
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\bin\Debug\TachAnhMauXam.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.exe
+C:\Users\Qduy\Desktop\Machine_Vision\TachAnhMauXam\TachAnhMauXam\obj\Debug\TachAnhMauXam.pdb

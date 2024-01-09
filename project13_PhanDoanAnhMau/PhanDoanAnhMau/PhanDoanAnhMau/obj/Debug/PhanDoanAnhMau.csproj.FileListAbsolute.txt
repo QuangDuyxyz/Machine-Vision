@@ -1,0 +1,10 @@
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\bin\Debug\PhanDoanAnhMau.exe.config
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\bin\Debug\PhanDoanAnhMau.exe
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\bin\Debug\PhanDoanAnhMau.pdb
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.csproj.AssemblyReference.cache
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.Form1.resources
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.Properties.Resources.resources
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.csproj.GenerateResource.cache
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.csproj.CoreCompileInputs.cache
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.exe
+D:\Machine_Vision\project13_PhanDoanAnhMau\PhanDoanAnhMau\PhanDoanAnhMau\obj\Debug\PhanDoanAnhMau.pdb

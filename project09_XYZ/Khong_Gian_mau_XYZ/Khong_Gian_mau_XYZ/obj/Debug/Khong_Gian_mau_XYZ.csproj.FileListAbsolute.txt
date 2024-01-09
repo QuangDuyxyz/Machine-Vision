@@ -1,0 +1,10 @@
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\bin\Debug\Khong_Gian_mau_XYZ.exe.config
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\bin\Debug\Khong_Gian_mau_XYZ.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\bin\Debug\Khong_Gian_mau_XYZ.pdb
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.csproj.AssemblyReference.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.Form1.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.Properties.Resources.resources
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.csproj.GenerateResource.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.csproj.CoreCompileInputs.cache
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.exe
+C:\Users\Qduy\Desktop\Machine_Vision\project09_XYZ\Khong_Gian_mau_XYZ\Khong_Gian_mau_XYZ\obj\Debug\Khong_Gian_mau_XYZ.pdb

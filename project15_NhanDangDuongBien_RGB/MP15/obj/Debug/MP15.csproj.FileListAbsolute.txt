@@ -1,0 +1,20 @@
+C:\Users\ACER\Documents\machine vision\MP15\bin\Debug\MP15.exe.config
+C:\Users\ACER\Documents\machine vision\MP15\bin\Debug\MP15.exe
+C:\Users\ACER\Documents\machine vision\MP15\bin\Debug\MP15.pdb
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.Form1.resources
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.Properties.Resources.resources
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.exe
+C:\Users\ACER\Documents\machine vision\MP15\obj\Debug\MP15.pdb
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\bin\Debug\MP15.exe.config
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\bin\Debug\MP15.exe
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\bin\Debug\MP15.pdb
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.csproj.AssemblyReference.cache
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.Form1.resources
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.Properties.Resources.resources
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.csproj.GenerateResource.cache
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.csproj.CoreCompileInputs.cache
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.exe
+D:\Machine_Vision\project15_NhanDangDuongBien_RGB\MP15\obj\Debug\MP15.pdb
